@@ -1,5 +1,7 @@
 # Grand Theft Completionist
 
+![Скриншот: оверлей с картой GTA V и автоскрытием](docs/screenshot.jpg)
+
 **Grand Theft Completionist** (by w1kscc) — inside-game overlay for GTA III, Vice City, San Andreas, IV (incl. EFLC) and V (Legacy & Enhanced) that shows collectible locations on an interactive map **and automatically hides every collectible you have already found** — straight from your save file.
 
 > Оверлей «всё-в-одном» для коллекционок GTA: карта с метками поверх игры + автоматическое скрытие найденного по вашему сейву. Никаких ручных галочек.
